@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Engineer working in Bangkok, Thailand.
 
-- 🏢 I'm currently working at [Ascend Group](https://www.ascendcorp.com) as Senior Software Engineer
+- 🏢 I'm currently working at [Space Next Door](https://www.spacenextdoor.com) as Senior Software Engineer
 - :rocket: I build scalable distributed systems using MicroServices with **NodeJS** and **Kubernetes** and bridge customers with Tech
 - ⚙️ I daily work with: **NodeJS**, **Golang**, **MicroServices**, **ReactJS**, **PostgreSQL**, **Kubernetes**, **AWS**, **GitHub** :heart:
 - :fire: As Senior Engineer, I Code, Review PRs, attend Architecture meetings and write Docs.
