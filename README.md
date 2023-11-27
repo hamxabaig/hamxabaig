@@ -1,6 +1,6 @@
 ## Hey there 👋 since you might not have enough time, I'll keep this short :smile:
 
-#### I'm a Full-Stack Engineer working in Bangkok, Thailand.
+#### I'm a Full-Stack Engineer working remotely :earth_asia:
 
 - 🏢 I'm currently working at [VeVe](https://www.veve.me) as Senior Software Engineer
 - :rocket: I build scalable distributed systems using MicroServices with **NodeJS** and **Kubernetes** and bridge customers with Tech
@@ -8,7 +8,7 @@
 - :fire: As Senior Engineer, I Code, Review PRs, attend Architecture meetings and write Docs.
 - 🌍 I'm mostly active within the JavaScript Community
 - 🌱 Spending most of the spare time on Open Source :heart:
-- :mortar_board: I graduated (undergrad) with Software Engineering degree
+- :mortar_board: I graduated with Software Engineering degree
 - 💬 Ping me about a cool open source project you want to discuss
 - ⚡️ Fun fact: When I'm not coding, I do videography and travel videos ;)
 
