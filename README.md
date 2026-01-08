@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Engineer working remotely :earth_asia:
 
-- 🏢 I'm currently working at [VeVe](https://www.veve.me) as Senior Software Engineer
+- 🏢 I'm currently working at [VeVe](https://www.veve.me) as Lead Software Engineer
 - :rocket: I build scalable distributed systems using MicroServices with **NodeJS** and **Kubernetes** and bridge customers with Tech
 - ⚙️ I daily work with: **NodeJS**, **Golang**, **MicroServices**, **ReactJS**, **PostgreSQL**, **Kubernetes**, **Kafka**, **RabbitMQ**, **AWS**, **GitHub** :heart:
 - :fire: As Senior Engineer, I Code, Review PRs, attend Architecture meetings and write Docs.
